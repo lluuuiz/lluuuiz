@@ -14,7 +14,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+bem-vindo!;Aqui+deixarei+meus+trabalhos.;)](https://git.io/typing-svg)
 
-<p data-importer="text" align="left">I'm studing C.C in the university, i like to pay games, read some books and to watch movies. 
+<p data-importer="text" align="left">I'm studing C.C in the university, i like to play games, read some books and to watch movies. 
   I like to code with Java but i like to learn other things .
 </p>
 
